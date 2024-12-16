@@ -53,7 +53,7 @@ function draw() {
   textAlign(CENTER, CENTER);
   fill(255);
   textSize(24);
-  text("Acoustic song", 0, height / 2 - 50);
+  text("Future vision", 0, height / 2 - 50);
 }
 
 function windowResized() {
